@@ -8,7 +8,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="{{ URL::to('dashboard') }}">Alumni Association - GCELT</a>
+				<a class="navbar-brand" href="{{ URL::to('dashboard') }}">Social Network</a>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				{{-- <ul class="nav navbar-nav">
