@@ -1,0 +1,34 @@
+.new-post {
+    padding: 16px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.new-post header,
+.posts header {
+    margin-bottom: 20px;
+}
+
+.posts .post {
+    padding-left: 10px;
+    border-left: 3px solid #a21b24;
+    margin-bottom: 30px;
+}
+
+.posts .post .info {
+    color: #aaa;
+    font-style: italic;
+}
+
+.like-bold {
+    font-weight: bold;
+}
+
+#main-content {
+    min-height: calc(100vh - 127px);
+}
+
+footer {
+    /* background: #2d3246; */
+    background: rgb(247, 247, 247);
+    padding: 20px 0 5px 0;
+}
