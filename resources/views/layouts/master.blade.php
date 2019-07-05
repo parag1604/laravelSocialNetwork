@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="shortcut icon" href="{{URL::to('favicon.ico')}}" type="image/x-icon">
 
-        <title>GAA - @yield('title')</title>
+        <title>@yield('title')</title>
 
         <!-- Compiled and minified CSS -->
         <link rel="stylesheet" href="{{URL::to('src/css/bootstrap.min.css')}}">
